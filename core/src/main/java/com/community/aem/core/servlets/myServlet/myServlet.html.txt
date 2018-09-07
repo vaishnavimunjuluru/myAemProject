@@ -1,0 +1,12 @@
+<html>
+<body>
+
+<div id="div1"><h2>Json data</h2></div>
+
+<div data-sly-include="myServletAjax.html"></div>
+
+<button id=button>Click here to invoke servlet</button>
+
+</body>
+
+</html>
